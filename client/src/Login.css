@@ -1,0 +1,103 @@
+.login_logo{
+    width: 103px;
+    height: 30px;
+    padding-bottom: 30px;
+}
+.login_container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 14px 18px;
+    margin-bottom: 25px;
+}
+
+.login_form{
+    height: auto;
+    width:322px;
+    display: flex;
+    flex-direction: column;
+    border : 1.5px solid #767676;    
+    border-radius: 5px;
+    padding: 20px 26px;
+
+}
+.login_form h1 {
+    width: 296px;
+    height: 37px;
+    font-size: 28px;
+    font-family: sans-serif;
+    padding: 0px 0px 4px;
+    margin: 0px 0px 10px;
+}
+.login_label{
+    height: 21px;
+    width: 296px;
+    font-size: 13px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 5px 0px 2px 2px;
+}
+.login_input{
+    width: 296px;
+    height: 21px;
+    padding: 3px 7px;
+    border-radius: 5px;
+    border : 1.5px solid #767676;    
+
+}
+.signIn_btn{
+    width: 314px;
+    height: 34px;
+    padding: 1px 6px;
+    background-color: rgb(250, 212, 44);
+    border: none;
+    border-radius: 10px;
+    font: 13 px sans-serif;
+    margin: 15px 0px 0px;
+}
+.signIn_btn:hover{
+    background-color: rgb(250, 207, 15);
+    cursor: pointer;
+
+}
+.form_text{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 18px 0px 70px;
+    columns: #111111;
+
+}
+.new_to_amazon{
+    padding-top: 20px;
+    display: flex;
+
+}
+.small_partition{
+    height: 0px;
+    width: 133px ;
+    border: 1px solid #767676;
+    opacity: 0.4;
+    margin-top: 5px;
+
+}
+.txt{
+    height: 12px;
+    width: 91px;
+    font-size: 12px;
+    color: #767676;
+    padding: 0px 8px 0px 7px;
+}
+.btn_2_link{
+    height: 24px;
+    width: 356px;
+    padding: 5px 10px 0px 11px;
+    margin-top: 14px;
+    font: 13px sans-serif;
+    background-color: #fff;
+    border : 1.5px solid #767676;    
+    border-radius: 5px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    
+}

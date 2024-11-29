@@ -1,0 +1,31 @@
+.kp_carousel{
+    height: 265px;
+    background-color: #ffffff;
+    gap:10px;
+    padding: 10px 20px;
+    margin: 20px;
+}
+.carousel_header{
+    height: 26px;
+    padding: 10px 0px;
+    font: 21px sans-serif;
+
+}
+.kpData_img{
+    height: 200px;
+    width: 260px;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    cursor: pointer;
+}
+.carousel-item-padding-40-px {
+    padding: 0 5px;
+}
+.custom-dot-list-style{
+    margin: 0;
+    padding: 0;
+}
+.carousel-container{
+    padding: 0;
+    margin: 0;
+}
